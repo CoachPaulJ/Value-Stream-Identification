@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_widget">
+    <par_dashboard_widget action="INSERT_OR_UPDATE">
+        <canvas display_value="">0cbf64bec6b721d01ee795a3007c60ab</canvas>
+        <component display_value="now-heading">3a64f550256090d9578ede76158e899c</component>
+        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <h>3</h>
+        <name/>
+        <sys_class_name>par_dashboard_widget</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 14:32:31</sys_created_on>
+        <sys_id>c0bf64becfb721d0090e49c3258193b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>par_dashboard_widget_c0bf64becfb721d0090e49c3258193b0</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:32:31</sys_updated_on>
+        <visualization/>
+        <w>48</w>
+        <x>0</x>
+        <y>0</y>
+    </par_dashboard_widget>
+</record_update>

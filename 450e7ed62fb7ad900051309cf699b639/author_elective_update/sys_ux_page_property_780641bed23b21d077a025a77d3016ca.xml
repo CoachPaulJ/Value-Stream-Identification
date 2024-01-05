@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_footer</name>
+        <page display_value="">ec0641be2f3b21d00051309cf699b699</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-06 16:10:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>780641bed23b21d077a025a77d3016ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_page_property_780641bed23b21d077a025a77d3016ca</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:10:07</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_492190_value_s_0.ec0641be2f3b21d00051309cf699b699.root.chrome_footer</unique_name>
+        <value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</application>
+        <file_path/>
+        <instance_id>12be868fdbb1a850387021c40596190e</instance_id>
+        <instance_name>dev105720</instance_name>
+        <name>sys_ux_page_property_780641bed23b21d077a025a77d3016ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_footer</name><page display_value="">ec0641be2f3b21d00051309cf699b699</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>system</sys_created_by><sys_created_on>2023-07-06 16:10:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>780641bed23b21d077a025a77d3016ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_footer</sys_name><sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package><sys_policy/><sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope><sys_update_name>sys_ux_page_property_780641bed23b21d077a025a77d3016ca</sys_update_name><sys_updated_by>system</sys_updated_by><sys_updated_on>2023-07-06 16:10:07</sys_updated_on><type>json</type><unique_name>x_492190_value_s_0.ec0641be2f3b21d00051309cf699b699.root.chrome_footer</unique_name><value>{&#13;
+    "public_page":{&#13;
+       "enable_footer_topbar":false,&#13;
+       "footer_topbar_options":{&#13;
+          "enable_logo":false,&#13;
+          "enable_address": false,&#13;
+          "enable_linkset_group":false,&#13;
+          "max_linkset_count":0&#13;
+       },&#13;
+       "enable_footer_bar":true,&#13;
+       "footer_bar_options":{&#13;
+          "enable_links":true,&#13;
+          "max_links_count":5,&#13;
+          "enable_social_links":false,&#13;
+          "max_social_links_count":7,&#13;
+          "social_links":[],&#13;
+          "enable_copyright_text":true,&#13;
+          "copyright_text":"© 2020 Company Inc. All rights reserved."&#13;
+       }&#13;
+    }&#13;
+ }</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>1928581853</payload_hash>
+        <record_name>chrome_footer</record_name>
+        <reverted_from/>
+        <source>20b7d7012f3121100051309cf699b6ec</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-24 06:11:34</sys_created_on>
+        <sys_id>301701322f7b21d00051309cf699b6ad</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>187123e6df00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>fc170132717b21d0709bdb39744531ac</update_guid>
+        <update_guid_history>fc170132717b21d0709bdb39744531ac:1928581853</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 16:14:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>3dd5e4f31d9c4d7087d0c55b06a1c190</sys_id>
+        <sys_metadata>780641bed23b21d077a025a77d3016ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_footer</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_scope_delete display_value="">5dd2be517d6743bc82cc9aab8d6523e9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_780641bed23b21d077a025a77d3016ca</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_780641bed23b21d077a025a77d3016ca">301701322f7b21d00051309cf699b6ad</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:14:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

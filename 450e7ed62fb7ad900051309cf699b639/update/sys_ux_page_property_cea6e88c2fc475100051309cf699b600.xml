@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_toolbar</name>
+        <page display_value="Landing pae">805785322f7b21d00051309cf699b6c6</page>
+        <required_translations>[ {
+  "message" : "Asset estate",
+  "comment" : ""
+}, {
+  "message" : "Asset operations",
+  "comment" : ""
+}, {
+  "message" : "Contract management",
+  "comment" : ""
+}, {
+  "message" : "Hardware asset overview",
+  "comment" : ""
+}, {
+  "message" : "Inventory",
+  "comment" : ""
+}, {
+  "message" : "Model management",
+  "comment" : ""
+}, {
+  "message" : "Procurement",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-10 11:05:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>cea6e88c2fc475100051309cf699b600</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_page_property_cea6e88c2fc475100051309cf699b600</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-10 11:53:38</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_492190_value_s_0.805785322f7b21d00051309cf699b6c6.root.chrome_toolbar</unique_name>
+        <value>[&#13;
+  {&#13;
+    "id": "home",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Hardware asset overview"&#13;
+    },&#13;
+    "icon": "home-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "home"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 100,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "inventory",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Inventory"&#13;
+    },&#13;
+    "icon": "building-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "inventory"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 200,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "assetestate",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Asset estate"&#13;
+    },&#13;
+    "icon": "clipboard-lines-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "asset"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 300,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "modelmanagement",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Model management"&#13;
+    },&#13;
+    "icon": "sliders-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "model"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 400,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+ {&#13;
+    "id": "procurement",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Procurement"&#13;
+    },&#13;
+    "icon": "contract-history-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "procurement"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 550,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {&#13;
+             "plugin":"com.snc.procurement",&#13;
+             "roles":["procurement_user"]&#13;
+        }&#13;
+  },&#13;
+{&#13;
+    "id": "contractmanagement",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Contract management"&#13;
+    },&#13;
+    "icon": "form-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "contract"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 600,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  },&#13;
+  {&#13;
+    "id": "assetoperations",&#13;
+    "label": {&#13;
+      "translatable": true,&#13;
+      "message": "Asset operations"&#13;
+    },&#13;
+    "icon": "list-outline",&#13;
+    "viewportInfo": {},&#13;
+    "routeInfo": {&#13;
+      "route": "operations"&#13;
+    },&#13;
+    "group": "top",&#13;
+    "order": 700,&#13;
+    "badge": {},&#13;
+    "presence": {},&#13;
+    "availability": {}&#13;
+  }&#13;
+]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=cea6e88c2fc475100051309cf699b600"/>
+</record_update>

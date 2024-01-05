@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="People">f7bb8241c7231010d558c943c7c26010</ais_search_source>
+        <label>User</label>
+        <name>People</name>
+        <order>100</order>
+        <search_context_config display_value="Value Stream Identification AI Search Configuratio">a1d298a644bfad90a0750146580b91a3</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 17:48:04</sys_created_on>
+        <sys_id>5fd21ca62fbfad900051309cf699b6dc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>People</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_search_filter_5fd21ca62fbfad900051309cf699b6dc</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 17:48:04</sys_updated_on>
+    </sys_search_filter>
+</record_update>

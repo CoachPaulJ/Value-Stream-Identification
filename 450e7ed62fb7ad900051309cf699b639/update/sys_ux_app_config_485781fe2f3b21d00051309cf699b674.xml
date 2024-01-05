@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_config">
+    <sys_ux_app_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <custom_icon/>
+        <default_route_type/>
+        <description/>
+        <encode_query_string>false</encode_query_string>
+        <icon/>
+        <landing_path>home</landing_path>
+        <name>Landing pae</name>
+        <prefetch_limits/>
+        <sys_class_name>sys_ux_app_config</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 16:15:42</sys_created_on>
+        <sys_id>485781fe2f3b21d00051309cf699b674</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Landing pae</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_app_config_485781fe2f3b21d00051309cf699b674</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:15:42</sys_updated_on>
+    </sys_ux_app_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=485781fe2f3b21d00051309cf699b674"/>
+</record_update>

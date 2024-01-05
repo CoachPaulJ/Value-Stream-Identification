@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ec7ba7de2fbbad900051309cf699b677" label="SAFe ART teams" max_length="40" name="x_492190_value_s_0_safe_art_teams" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Agile release train" max_length="40" name="agile_release_train" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="40" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Team" max_length="40" name="team" type="string"/>
+    </element>
+</database>

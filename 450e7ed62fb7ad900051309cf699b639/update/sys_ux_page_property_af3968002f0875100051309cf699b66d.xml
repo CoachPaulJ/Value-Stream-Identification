@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_tab</name>
+        <page display_value="Landing pae">805785322f7b21d00051309cf699b6c6</page>
+        <required_translations>[ {
+  "message" : "New Incident",
+  "comment" : ""
+}, {
+  "message" : "New Interaction",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-10 11:19:37</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>af3968002f0875100051309cf699b66d</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_page_property_af3968002f0875100051309cf699b66d</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-10 11:52:45</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_492190_value_s_0.805785322f7b21d00051309cf699b6c6.root.chrome_tab</unique_name>
+        <value>{&#13;
+  "contextual": [&#13;
+    "record","standard-record-page"&#13;
+  ],&#13;
+  "newTabMenu": [&#13;
+    {&#13;
+      "label": {&#13;
+        "translatable": true,&#13;
+        "message": "New Interaction"&#13;
+      },&#13;
+      "routeInfo": {&#13;
+        "route": "record",&#13;
+        "fields": {&#13;
+          "table": "interaction",&#13;
+          "sysId": "-1"&#13;
+        },&#13;
+        "multiInstField": "sysId"&#13;
+      },&#13;
+      "condition": {&#13;
+        "tableDescription": {&#13;
+          "table": "interaction",&#13;
+          "canCreate": true&#13;
+        }&#13;
+      }&#13;
+    },&#13;
+    {&#13;
+      "label": {&#13;
+        "translatable": true,&#13;
+        "message": "New Incident"&#13;
+      },&#13;
+      "routeInfo": {&#13;
+        "route": "record",&#13;
+        "fields": {&#13;
+          "table": "incident",&#13;
+          "sysId": "-1"&#13;
+        },&#13;
+        "multiInstField": "sysId"&#13;
+      }&#13;
+    }&#13;
+  ],&#13;
+  "maxMainTabLimit": 10,&#13;
+  "maxTotalSubTabLimit": 30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=af3968002f0875100051309cf699b66d"/>
+</record_update>

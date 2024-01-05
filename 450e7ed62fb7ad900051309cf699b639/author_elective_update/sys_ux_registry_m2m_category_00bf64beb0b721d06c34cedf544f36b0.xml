@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="DELETE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="">00bf64be7cb721d0667ad5e94dd0abab</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 14:32:32</sys_created_on>
+        <sys_id>00bf64beb0b721d06c34cedf544f36b0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_00bf64beb0b721d06c34cedf544f36b0</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:32:32</sys_updated_on>
+    </sys_ux_registry_m2m_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</application>
+        <file_path/>
+        <instance_id>12be868fdbb1a850387021c40596190e</instance_id>
+        <instance_name>dev105720</instance_name>
+        <name>sys_ux_registry_m2m_category_00bf64beb0b721d06c34cedf544f36b0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category"><sys_ux_registry_m2m_category action="INSERT_OR_UPDATE"><experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category><page_registry display_value="">00bf64be7cb721d0667ad5e94dd0abab</page_registry><sys_class_name>sys_ux_registry_m2m_category</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2023-07-06 14:32:32</sys_created_on><sys_id>00bf64beb0b721d06c34cedf544f36b0</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package><sys_policy/><sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope><sys_update_name>sys_ux_registry_m2m_category_00bf64beb0b721d06c34cedf544f36b0</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2023-07-06 14:32:32</sys_updated_on></sys_ux_registry_m2m_category></record_update>]]></payload>
+        <payload_hash>-996192621</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>20b7d7012f3121100051309cf699b6ec</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2023-03-24 06:11:34</sys_created_on>
+        <sys_id>2f44c1fa2f3b21d00051309cf699b6b8</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>187123e6df00000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Application Category M2M</type>
+        <update_guid>eb44c1fa093b21d04adf7946e2e353b8</update_guid>
+        <update_guid_history>eb44c1fa093b21d04adf7946e2e353b8:-996192621</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 16:02:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_registry_m2m_category">sys_ux_registry_m2m_category</sys_db_object>
+        <sys_id>694bdc4dcbc74bf0bc5fb7c53c3b11a4</sys_id>
+        <sys_metadata>00bf64beb0b721d06c34cedf544f36b0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_scope_delete display_value="">5dd2be517d6743bc82cc9aab8d6523e9</sys_scope_delete>
+        <sys_update_name>sys_ux_registry_m2m_category_00bf64beb0b721d06c34cedf544f36b0</sys_update_name>
+        <sys_update_version display_value="sys_ux_registry_m2m_category_00bf64beb0b721d06c34cedf544f36b0">2f44c1fa2f3b21d00051309cf699b6b8</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:02:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

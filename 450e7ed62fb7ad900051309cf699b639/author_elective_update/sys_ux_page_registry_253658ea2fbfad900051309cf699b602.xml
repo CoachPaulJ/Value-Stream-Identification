@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="DELETE">
+        <active>true</active>
+        <admin_panel>693618ea2fbfad900051309cf699b6ff</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>value_stream_home</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 18:02:42</sys_created_on>
+        <sys_id>253658ea2fbfad900051309cf699b602</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Value_stream_Home</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_page_registry_253658ea2fbfad900051309cf699b602</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 18:02:42</sys_updated_on>
+        <title>Value_stream_Home</title>
+    </sys_ux_page_registry>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</application>
+        <file_path/>
+        <instance_id>12be868fdbb1a850387021c40596190e</instance_id>
+        <instance_name>dev105720</instance_name>
+        <name>sys_ux_page_registry_253658ea2fbfad900051309cf699b602</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry"><sys_ux_page_registry action="INSERT_OR_UPDATE"><active>true</active><admin_panel>693618ea2fbfad900051309cf699b6ff</admin_panel><admin_panel_table>sys_ux_app_config</admin_panel_table><auth_routes/><page/><parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app><path>value_stream_home</path><root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent><sys_class_name>sys_ux_page_registry</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2023-07-05 18:02:42</sys_created_on><sys_id>253658ea2fbfad900051309cf699b602</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Value_stream_Home</sys_name><sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package><sys_policy/><sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope><sys_update_name>sys_ux_page_registry_253658ea2fbfad900051309cf699b602</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2023-07-05 18:02:42</sys_updated_on><title>Value_stream_Home</title></sys_ux_page_registry></record_update>]]></payload>
+        <payload_hash>-1701864095</payload_hash>
+        <record_name>Value_stream_Home</record_name>
+        <reverted_from/>
+        <source>c50e7ed62fb7ad900051309cf699b63b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 18:02:42</sys_created_on>
+        <sys_id>2d3658ea2fbfad900051309cf699b604</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189273882670000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 18:02:42</sys_updated_on>
+        <type>UX Application</type>
+        <update_guid>613658ea2bbfad90b0eac22a6e230e04</update_guid>
+        <update_guid_history>613658ea2bbfad90b0eac22a6e230e04:-1701864095</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-06 14:29:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_registry">sys_ux_page_registry</sys_db_object>
+        <sys_id>5335e66c417847dd844c55a0f16b8a89</sys_id>
+        <sys_metadata>253658ea2fbfad900051309cf699b602</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Value_stream_Home</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_scope_delete display_value="">5dd2be517d6743bc82cc9aab8d6523e9</sys_scope_delete>
+        <sys_update_name>sys_ux_page_registry_253658ea2fbfad900051309cf699b602</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_registry_253658ea2fbfad900051309cf699b602">2d3658ea2fbfad900051309cf699b604</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-06 14:29:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

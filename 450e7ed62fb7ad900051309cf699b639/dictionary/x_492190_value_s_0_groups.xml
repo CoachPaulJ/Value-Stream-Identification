@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="588a2f5e2fbbad900051309cf699b665" label="Groups" max_length="40" name="x_492190_value_s_0_groups" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active" max_length="40" name="active" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="121" name="description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manager" max_length="40" name="manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="48" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Parent" max_length="40" name="parent" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Updated" max_length="40" name="updated" type="glide_date_time"/>
+    </element>
+</database>

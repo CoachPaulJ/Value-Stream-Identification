@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="m2m_app_config_theme">
+    <m2m_app_config_theme action="INSERT_OR_UPDATE">
+        <applicability display_value="Public">3c0641bec43b21d093a8d796e08433fb</applicability>
+        <order>0</order>
+        <sys_class_name>m2m_app_config_theme</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-06 16:10:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>fc0641bec93b21d0ec80f4112f920dfb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_overrides/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>m2m_app_config_theme_fc0641bec93b21d0ec80f4112f920dfb</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:10:03</sys_updated_on>
+        <theme display_value="Light Theme">740641be7d3b21d03d51c809ed16a7fc</theme>
+        <ux_app_configuration display_value="Value Stream Identification Config">e00641be2f3b21d00051309cf699b69a</ux_app_configuration>
+    </m2m_app_config_theme>
+</record_update>

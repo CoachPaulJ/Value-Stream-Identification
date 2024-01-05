@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_datasource">
+    <sys_ux_composite_data_m2m_datasource action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Catalog Item page - Related Items dataset">740641bed93b21d0421ba1570ed259da</dataset>
+        <datasource display_value="Custom Portal Catalog Item page - Related Items Datasource">b80641be6b3b21d0a4af640f3a0e41d8</datasource>
+        <sys_class_name>sys_ux_composite_data_m2m_datasource</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-07-06 16:10:07</sys_created_on>
+        <sys_id>b40641be903b21d0bb16d52b511508d9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_datasource_b40641be903b21d0bb16d52b511508d9</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-07-06 16:10:07</sys_updated_on>
+    </sys_ux_composite_data_m2m_datasource>
+</record_update>

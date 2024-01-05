@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:07:34</sys_created_on>
+        <sys_id>dd60af1e2f7bad900051309cf699b6ba</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_492190_value_s_0_business_applications.x_492190_value_s_0.user</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_security_acl display_value="x_492190_value_s_0_business_applications">1560af1e2f7bad900051309cf699b6b7</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_dd60af1e2f7bad900051309cf699b6ba</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:07:34</sys_updated_on>
+        <sys_user_role display_value="x_492190_value_s_0.user" name="x_492190_value_s_0.user">550e7ed62fb7ad900051309cf699b68f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</application>
+        <file_path/>
+        <instance_id>12be868fdbb1a850387021c40596190e</instance_id>
+        <instance_name>dev105720</instance_name>
+        <name>sys_security_acl_role_dd60af1e2f7bad900051309cf699b6ba</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2023-07-05 14:07:34</sys_created_on><sys_id>dd60af1e2f7bad900051309cf699b6ba</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_492190_value_s_0_business_applications.x_492190_value_s_0.user</sys_name><sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package><sys_policy/><sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope><sys_security_acl display_value="x_492190_value_s_0_business_applications">1560af1e2f7bad900051309cf699b6b7</sys_security_acl><sys_update_name>sys_security_acl_role_dd60af1e2f7bad900051309cf699b6ba</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2023-07-05 14:07:34</sys_updated_on><sys_user_role display_value="x_492190_value_s_0.user" name="x_492190_value_s_0.user">550e7ed62fb7ad900051309cf699b68f</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1462918948</payload_hash>
+        <record_name>x_492190_value_s_0_business_applications.x_492190_value_s_0.user</record_name>
+        <reverted_from/>
+        <source>c50e7ed62fb7ad900051309cf699b63b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:07:34</sys_created_on>
+        <sys_id>1560af1e2f7bad900051309cf699b6be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18926613e9f0000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:07:34</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>5960af1e527bad90fc43b9c7c62719bd</update_guid>
+        <update_guid_history>5960af1e527bad90fc43b9c7c62719bd:1462918948</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_492190_value_s_0_business_applications.x_492190_value_s_0.user">dc66a3962fbbad900051309cf699b61a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:33:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>4563b7346a00494a9ffac463eb559dc4</sys_id>
+        <sys_metadata>dd60af1e2f7bad900051309cf699b6ba</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_492190_value_s_0_business_applications.x_492190_value_s_0.user</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_parent display_value="">1560af1e2f7bad900051309cf699b6b7</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_scope_delete display_value="">5dd2be517d6743bc82cc9aab8d6523e9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_dd60af1e2f7bad900051309cf699b6ba</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_dd60af1e2f7bad900051309cf699b6ba">1560af1e2f7bad900051309cf699b6be</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:33:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

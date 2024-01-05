@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Value S 0 1688568892644</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_492190_value_s_0_1688568892644</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:54:54</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>aa3b63de2fbbad900051309cf699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Value S 0 1688568892644</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_update_name>sys_app_module_aa3b63de2fbbad900051309cf699b60f</sys_update_name>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:54:54</sys_updated_on>
+        <timeline_page/>
+        <title>Value S 0 1688568892644</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</application>
+        <file_path/>
+        <instance_id>12be868fdbb1a850387021c40596190e</instance_id>
+        <instance_name>dev105720</instance_name>
+        <name>sys_app_module_aa3b63de2fbbad900051309cf699b60f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Value S 0 1688568892644</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_492190_value_s_0_1688568892644</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>max</sys_created_by><sys_created_on>2023-07-05 14:54:54</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>aa3b63de2fbbad900051309cf699b60f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Value S 0 1688568892644</sys_name><sys_overrides/><sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package><sys_policy/><sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope><sys_update_name>sys_app_module_aa3b63de2fbbad900051309cf699b60f</sys_update_name><sys_updated_by>max</sys_updated_by><sys_updated_on>2023-07-05 14:54:54</sys_updated_on><timeline_page/><title>Value S 0 1688568892644</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1905528854</payload_hash>
+        <record_name>Value S 0 1688568892644</record_name>
+        <reverted_from/>
+        <source>c50e7ed62fb7ad900051309cf699b63b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:54:54</sys_created_on>
+        <sys_id>ae3b63de2fbbad900051309cf699b611</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>189268c93400000001</sys_recorded_at>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:54:54</sys_updated_on>
+        <type>Module</type>
+        <update_guid>e23b63de80bbad903358d1bfb9fab211</update_guid>
+        <update_guid_history>e23b63de80bbad903358d1bfb9fab211:1905528854</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Value S 0 1688568892644">3d7be7de2fbbad900051309cf699b69c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>max</sys_created_by>
+        <sys_created_on>2023-07-05 14:55:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>6d427e59366a4f6487c922b31aa8aa84</sys_id>
+        <sys_metadata>aa3b63de2fbbad900051309cf699b60f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Value S 0 1688568892644</sys_name>
+        <sys_package display_value="Value Stream Identification" source="x_492190_value_s_0">450e7ed62fb7ad900051309cf699b639</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Value Stream Identification">450e7ed62fb7ad900051309cf699b639</sys_scope>
+        <sys_scope_delete display_value="">5dd2be517d6743bc82cc9aab8d6523e9</sys_scope_delete>
+        <sys_update_name>sys_app_module_aa3b63de2fbbad900051309cf699b60f</sys_update_name>
+        <sys_update_version display_value="sys_app_module_aa3b63de2fbbad900051309cf699b60f">ae3b63de2fbbad900051309cf699b611</sys_update_version>
+        <sys_updated_by>max</sys_updated_by>
+        <sys_updated_on>2023-07-05 14:55:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

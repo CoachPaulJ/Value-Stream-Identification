@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5ce06f5e2f7bad900051309cf699b60a" label="Business Applications" max_length="40" name="x_492190_value_s_0_business_applications_org" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Active rights" max_length="40" name="active_rights" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application category" max_length="40" name="application_category" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application family" max_length="40" name="application_family" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Application type" max_length="40" name="application_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Architecture type" max_length="40" name="architecture_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business criticality" max_length="40" name="business_criticality" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business owner" max_length="40" name="business_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Business process" max_length="40" name="business_process" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Contract end date" max_length="40" name="contract_end_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Currency" max_length="40" name="currency" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data classification" max_length="40" name="data_classification" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Install type" max_length="40" name="install_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="IT Application owner" max_length="40" name="it_application_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Manufacturer" max_length="40" name="manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Model ID" max_length="40" name="model_id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Platform" max_length="40" name="platform" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Portfolio manager" max_length="40" name="portfolio_manager" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Support vendor" max_length="40" name="support_vendor" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <element attributes="edge_encryption_enabled=true" label="Technology stack" max_length="40" name="technology_stack" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="User base" max_length="40" name="user_base" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
